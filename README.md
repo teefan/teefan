@@ -7,6 +7,6 @@
 - 💬 Ask me about Ruby, Python and Machine Learning.
 - 📫 How to reach me: teefan82@gmail.com
 - 😄 Pronouns: teefan (?)
-- ⚡ Fun fact: I love playing Computer Games, playing Piano, swimming & reading books.
+- ⚡ Fun fact: I love playing Computer Games, playing Piano, traveling, swimming & reading books.
 
 [![Teefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=teefan)](https://github.com/teefan/github-readme-stats)
