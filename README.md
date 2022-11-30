@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Long (means Dragon in Vietnamese). I'm from Viet Nam.
 
 - 🔭 I’m currently working on: a few hobby Web and Video Game projects!
-- 🌱 I’m currently learning Machine Learning and Python.
+- 🌱 I’m currently learning Video Game Development, Machine Learning and Python.
 - 👯 I’m looking to collaborate on fun Web App, Machine Learning or Game Development projects.
 - 🤔 I’m looking for help with: nothing yet!
 - 💬 Ask me about Ruby, Python, System Architecture and Video Game Development.
