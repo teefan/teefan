@@ -9,5 +9,3 @@
 - 😄 Pronouns: teefan (?)
 - ⚡ Fun fact: I love playing Video Games, playing Piano, traveling, swimming & reading books.
 - 🎮 My indie games on itch.io: https://teefan.itch.io/
-
-[![Teefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=teefan)](https://github.com/teefan/github-readme-stats)
